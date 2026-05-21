@@ -1,0 +1,10 @@
+.container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+button {
+  max-width: 200px;
+}
